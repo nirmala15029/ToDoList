@@ -1,0 +1,33 @@
+body{
+    background-color:azure;
+}
+.Mainclass{
+    margin-top: 100px;
+    
+}
+.form{
+ position: fixed;
+ margin-left: 500px;
+}
+.buttoncls{
+    margin-left: 30px;
+}
+.wrapper{
+    margin-top: 50px;
+    border: 1px solid blanchedalmond;
+    box-shadow: 0 2px 3px 0 blueviolet;
+    height: 500px;
+    width: 700px;
+    margin-left: 320px;
+    position: fixed;
+}
+.div-Wrapper{
+    border: 1px solid rgb(250, 218, 169);
+    box-shadow: 0 2px 3px 0 rgb(88, 14, 226);
+    margin-top: 30px;
+    background: #888;
+    color: #fff;
+}
+
+  
+
